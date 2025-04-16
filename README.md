@@ -4,6 +4,6 @@ Este é um projeto em Python com Streamlit que avalia seu perfil empreendedor co
 
 ## 🔗 Veja o app rodando (depois de publicado)
 
-[link_streamlit]
+link[https://perfil-empreendedor-zyrusigeefvwua6gxs9qsc.streamlit.app/]
 
 ## 🚀 Feito por Letícia Oliveira ✨
