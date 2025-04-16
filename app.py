@@ -20,7 +20,7 @@ st.markdown("---")
 
 # Criando sliders
 for pergunta, chave in perguntas.items():
-    respostas[chave] = st.import streamlit as st
+    respostas[chave] = st.slider(pergunta, 1, 5, key=chave)
 
 st.set_page_config(page_title="Teste de Perfil Empreendedor", layout="centered")
 
