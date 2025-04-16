@@ -1,5 +1,6 @@
 import streamlit as st
 
+# ⬅️ ISSO AQUI TEM QUE VIR PRIMEIRO!
 st.set_page_config(page_title="Teste de Perfil Empreendedor", layout="centered")
 
 st.title("💡 Teste de Perfil Empreendedor")
